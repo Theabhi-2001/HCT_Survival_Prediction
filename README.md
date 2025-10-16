@@ -101,19 +101,18 @@ To make the model interpretable for clinicians, **SHAP (Shapley Additive Explana
 
 
 ###  Project Structure
----
-📁 HCT_Survival_Prediction/
-│
-├── app.py                     # Flask web app for prediction
-├── model_training.py          # ML model training code
-├── voting_model.pkl           # Final ensemble model
-├── preprocessor.pkl           # Preprocessing pipeline
-├── num_cols.pkl               # Numerical columns used
-├── cat_cols.pkl               # Categorical columns used
-├── README.md                  # Project description
-└── LICENSE                    # MIT License
 
----
+HCT_Survival_Prediction/
+│
+├── app.py                # Flask web app for prediction
+├── model_training.py     # ML model training code
+├── voting_model.pkl      # Final ensemble model
+├── preprocessor.pkl      # Preprocessing pipeline
+├── num_cols.pkl          # Numerical columns used
+├── cat_cols.pkl          # Categorical columns used
+├── README.md             # Project description
+└── LICENSE               # MIT License
+
 
 ### Results Visualization
 
