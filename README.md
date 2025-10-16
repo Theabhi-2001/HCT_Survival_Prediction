@@ -101,7 +101,7 @@ To make the model interpretable for clinicians, **SHAP (Shapley Additive Explana
 
 
 ###  Project Structure
-
+---
 📁 HCT_Survival_Prediction/
 │
 ├── app.py                     # Flask web app for prediction
@@ -113,6 +113,7 @@ To make the model interpretable for clinicians, **SHAP (Shapley Additive Explana
 ├── README.md                  # Project description
 └── LICENSE                    # MIT License
 
+---
 
 ### Results Visualization
 
